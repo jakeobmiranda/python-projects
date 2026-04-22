@@ -1,0 +1,21 @@
+Visit_ID,Patient_ID,Doctor_ID,Department,Visit_Date,Diagnosis,Treatment_Cost,Insurance_Covered,Follow_Up_Required,Wait_Time_Min
+V001,P101,D01,Cardiology,2024-01-03,Heart Murmur,1500.00,1200.00,Yes,35
+V002,P102,D02,Orthopedics,2024-01-05,Fracture,2200.00,,Yes,50
+V003,P101,D01,Cardiology,2024-01-10,Heart Murmur,1600.00,1300.00,Yes,28
+V004,P103,D03,Neurology,2024-01-12,Migraine,800.00,600.00,No,42
+V005,P104,D02,Orthopedics,2024-01-15,Sprain,650.00,500.00,No,65
+V006,P105,D01,Cardiology,2024-01-18,Arrhythmia,3200.00,2400.00,Yes,30
+V007,P102,D03,Neurology,2024-01-20,Concussion,1800.00,1400.00,Yes,55
+V008,P106,D02,Orthopedics,2024-01-22,Fracture,2400.00,1800.00,No,
+V009,P101,D01,Cardiology,2024-01-25,Heart Murmur,1550.00,,Yes,32
+V010,P107,D03,Neurology,2024-01-28,Migraine,850.00,650.00,No,48
+V011,P103,D01,Cardiology,2024-02-01,Arrhythmia,3100.00,2300.00,Yes,
+V012,P108,D02,Orthopedics,2024-02-03,Sprain,700.00,550.00,No,58
+V013,P104,D03,Neurology,2024-02-05,Migraine,900.00,,Yes,40
+V014,P101,D01,Cardiology,2024-02-08,Heart Murmur,1650.00,1350.00,No,25
+V015,P109,D02,Orthopedics,2024-02-10,Fracture,2500.00,1900.00,Yes,
+V016,P105,D03,Neurology,2024-02-12,Concussion,1900.00,1500.00,Yes,52
+V017,P110,D01,Cardiology,2024-02-15,Arrhythmia,3300.00,2500.00,Yes,29
+V018,P102,D02,Orthopedics,2024-02-18,Fracture,2350.00,1750.00,No,62
+V019,P111,D03,Neurology,2024-02-20,Migraine,875.00,675.00,No,45
+V020,P103,D01,Cardiology,2024-02-22,Heart Murmur,1700.00,,Yes,31

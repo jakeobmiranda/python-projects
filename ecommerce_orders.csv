@@ -1,0 +1,21 @@
+Order_ID,Customer_ID,Order_Date,Ship_Date,Product,Category,Quantity,Unit_Price,Discount_Pct,Region,Payment_Method
+O001,C201,2024-01-02,2024-01-04,Laptop,Electronics,1,999.99,0,East,Credit Card
+O002,C202,2024-01-03,2024-01-07,Headphones,Electronics,2,79.99,10,West,PayPal
+O003,C203,2024-01-05,2024-01-06,Desk Chair,Furniture,1,349.99,0,East,Credit Card
+O004,C201,2024-01-08,2024-01-09,Mouse,Electronics,3,29.99,5,East,Credit Card
+O005,C204,2024-01-10,2024-01-15,Bookshelf,Furniture,1,199.99,15,South,Debit Card
+O006,C205,2024-01-12,2024-01-13,Keyboard,Electronics,2,59.99,0,West,PayPal
+O007,C202,2024-01-15,2024-01-22,Sofa,Furniture,1,899.99,20,West,Credit Card
+O008,C206,2024-01-17,2024-01-18,Tablet,Electronics,1,499.99,10,North,Debit Card
+O009,C203,2024-01-20,2024-01-21,Lamp,Furniture,4,44.99,0,East,Credit Card
+O010,C207,2024-01-22,2024-01-28,Monitor,Electronics,1,349.99,5,North,PayPal
+O011,C201,2024-01-25,2024-01-26,Webcam,Electronics,2,69.99,0,East,Credit Card
+O012,C208,2024-01-28,2024-02-01,Dining Table,Furniture,1,599.99,10,South,Credit Card
+O013,C204,2024-02-01,2024-02-03,Laptop,Electronics,1,999.99,5,South,Debit Card
+O014,C202,2024-02-03,2024-02-04,Mouse,Electronics,5,29.99,10,West,PayPal
+O015,C209,2024-02-05,2024-02-06,Desk Chair,Furniture,2,349.99,0,East,Credit Card
+O016,C205,2024-02-08,2024-02-14,Bookshelf,Furniture,1,199.99,0,West,PayPal
+O017,C201,2024-02-10,2024-02-11,Headphones,Electronics,1,79.99,15,East,Credit Card
+O018,C210,2024-02-12,2024-02-18,Sofa,Furniture,1,899.99,25,North,Debit Card
+O019,C203,2024-02-15,2024-02-16,Keyboard,Electronics,3,59.99,5,East,Credit Card
+O020,C206,2024-02-18,2024-02-19,Lamp,Furniture,2,44.99,0,North,Debit Card
